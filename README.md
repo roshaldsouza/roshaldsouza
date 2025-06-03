@@ -8,8 +8,6 @@ I'm **Roshal D'Souza**, a passionate **Full Stack Developer** and **AI enthusias
 - 🌱 Currently mastering **DevOps** and **Cloud Infrastructure**  
 
 ### 💡 What I’m Working On  
-- 🎬 A **Movie Recommendation System** using hybrid filtering techniques  
-- 🛠️ An **AI-Powered Chatbot** for enhanced customer support  
 - 🌐 A **Full Stack Platform** integrating modern web technologies  
 
 ### 🤝 Let’s Collaborate  
