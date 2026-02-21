@@ -41,7 +41,6 @@ I'm **Roshal D'Souza**, a passionate **Full Stack Developer** and **AI enthusias
 ![](https://nirzak-streak-stats.vercel.app/?user=roshaldsouza&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshaldsouza&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 LeetCode 50 Days Badge
 
 ## 🏆 LeetCode 50 Days Badge
 ![LeetCode 50 Days Badge](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)
