@@ -43,7 +43,8 @@ I'm **Roshal D'Souza**, a passionate **Full Stack Developer** and **AI enthusias
 
 ## 🏆 LeetCode 50 Days Badge
 
-[![LeetCode Badge](https://leetcode.com/medal/?showImg=1&id=9530022&isLevel=false)](https://leetcode.com/u/roshalds789/)
+## 🏆 LeetCode 50 Days Badge
+![LeetCode 50 Days Badge](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)
 
 
 ## 🏆 GitHub Trophies
