@@ -1,14 +1,16 @@
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Roshal+Dsouza+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;DevOps+Explorer+%7C+Open+Source+Lover" alt="Typing SVG" />
-</h1>
+# 👩‍💻 Roshal Dsouza
 
 ### `< Full Stack Developer />` · `{ AI Enthusiast }` · `[DevOps Explorer]`
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Building+scalable+web+solutions+%F0%9F%9A%80;Exploring+LLMs+%7C+RAG+%7C+Agentic+AI+%F0%9F%A4%96;FastAPI+%7C+React+%7C+Node.js+%7C+Docker+%F0%9F%90%B3;Open+to+Internships+%26+Collaborations+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="380" alt="Girl Developer"/>
 
 <br/><br/>
 
@@ -16,9 +18,11 @@
 
 ---
 
-## 🧠 whoami
+## 🧠 Who Am I?
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="320" />
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```yaml
 name: Roshal Dsouza
@@ -43,7 +47,14 @@ currently_learning:
 open_to: Internships & Collaborations
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="coding girl gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,7 +99,7 @@ open_to: Internships & Collaborations
 
 Automated GitHub PR review bot using Llama 3.3 70B + Gemini fallback. Handles repos with 5k+ lines, detects security bugs, and uses HMAC webhook verification.
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/roshaldsouza)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshaldsouza)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -96,9 +107,9 @@ Automated GitHub PR review bot using Llama 3.3 70B + Gemini fallback. Handles re
 ### 📄 Resume ATS Analyzer
 `JavaScript · Chrome Extension · PDF.js`
 
-Manifest v3 Chrome extension that scores resumes against JDs using ATS keyword matching. Client-side PDF parsing, no backend needed. Optional AI skill suggestions.
+Manifest v3 Chrome extension scoring resumes against JDs using ATS keyword matching. Client-side PDF parsing, no backend needed. Optional AI skill suggestions.
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/roshaldsouza)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshaldsouza)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -106,9 +117,9 @@ Manifest v3 Chrome extension that scores resumes against JDs using ATS keyword m
 ### 🔗 LinkShort URL Shortener
 `Node.js · AWS Lambda · DynamoDB`
 
-Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click analytics, short-code aliases, and high scalability via API Gateway.
+Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click analytics, short-code aliases, and scalability via API Gateway.
 
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel)](https://github.com/roshaldsouza)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://github.com/roshaldsouza)
 
 </td>
 </tr>
@@ -120,14 +131,14 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <div align="center">
 
-**Languages**
+**💬 Languages**
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Frontend**
+**🖥️ Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -135,35 +146,35 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & APIs**
+**🔧 Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**🧠 AI / ML & Concepts**
+**🧠 AI / ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-`LLMs` · `RAG` · `Prompt Engineering` · `Vector Embeddings` · `Agentic AI` · `MCP`
+`LLMs` · `RAG` · `Prompt Engineering` · `Vector Embeddings` · `Agentic AI Systems` · `MCP`
 
-**Databases**
+**🗄️ Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-**DevOps & Cloud**
+**☁️ DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -177,15 +188,15 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshaldsouza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaldsouza&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=roshaldsouza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaldsouza&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=roshaldsouza&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=roshaldsouza&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
 [![LeetCode](https://leetcard.jacoblin.cool/roshalds789?theme=dark&animation=true&ext=heatmap)](https://leetcode.com/roshalds789/)
 
@@ -197,7 +208,11 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <div align="center">
 
-🥇 National-level Hackathons & Technical Expos &nbsp;|&nbsp; 📜 Agentic AI Systems – Udemy &nbsp;|&nbsp; 📜 Model Context Protocol (MCP) – Udemy &nbsp;|&nbsp; 🎓 CGPA: 9.0
+| 🥇 | National-level Hackathons & Technical Expos |
+|---|---|
+| 📜 | Agentic AI Systems – Udemy |
+| 📜 | Model Context Protocol (MCP) – Udemy |
+| 🎓 | CGPA: 9.0 · B.E. Computer Science, VTU Bangalore |
 
 </div>
 
