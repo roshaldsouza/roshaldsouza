@@ -8,12 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Building+scalable+web+solutions+%F0%9F%9A%80;Exploring+LLMs+%7C+RAG+%7C+Agentic+AI+%F0%9F%A4%96;FastAPI+%7C+React+%7C+Node.js+%7C+Docker+%F0%9F%90%B3;Open+to+Internships+%26+Collaborations+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="380" alt="Girl Developer"/>
-
-<br/><br/>
-
 </div>
 
 ---
@@ -50,7 +44,7 @@ open_to: Internships & Collaborations
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="coding girl gif"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="girl coding gif"/>
 
 </td>
 </tr>
@@ -188,17 +182,16 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshaldsouza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaldsouza&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=roshaldsouza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaldsouza&theme=tokyonight&hide_border=true&layout=compact" />
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=roshaldsouza&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=roshaldsouza&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-[![LeetCode](https://leetcard.jacoblin.cool/roshalds789?theme=dark&animation=true&ext=heatmap)](https://leetcode.com/roshalds789/)
+[![LeetCode](https://leetcard.jacoblin.cool/roshalds789?theme=dark&animation=true)](https://leetcode.com/roshalds789/)
 
 </div>
 
@@ -208,8 +201,9 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <div align="center">
 
-| 🥇 | National-level Hackathons & Technical Expos |
+| | |
 |---|---|
+| 🥇 | National-level Hackathons & Technical Expos |
 | 📜 | Agentic AI Systems – Udemy |
 | 📜 | Model Context Protocol (MCP) – Udemy |
 | 🎓 | CGPA: 9.0 · B.E. Computer Science, VTU Bangalore |
@@ -229,7 +223,7 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <br/>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=roshaldsouza&icon=6&color=9)
+[![](https://visitcount.itsvg.in/api?id=roshaldsouza&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <br/>
 
