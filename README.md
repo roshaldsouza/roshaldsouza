@@ -182,9 +182,6 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=roshaldsouza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaldsouza&theme=tokyonight&hide_border=true&layout=compact" />
-
 <br/><br/>
 
 <img width="60%" src="https://streak-stats.demolab.com?user=roshaldsouza&theme=tokyonight&hide_border=true" />
