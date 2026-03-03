@@ -41,7 +41,7 @@ I'm **Roshal D'Souza**, a passionate **Full Stack Developer** and **AI enthusias
 ![](https://nirzak-streak-stats.vercel.app/?user=roshaldsouza&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshaldsouza&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/roshalds789?theme=dark&animation=true)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
