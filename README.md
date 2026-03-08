@@ -226,6 +226,5 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 > *"Coding is not just about solving problems — it's about creating possibilities."* ✨
 
-⚡ **Fun fact:** When I'm not shipping code, I'm deep in an anime arc or chasing the next tech rabbit hole 🐇
 
 </div>
