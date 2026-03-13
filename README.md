@@ -187,9 +187,6 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 <img width="60%" src="https://streak-stats.demolab.com?user=roshaldsouza&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
-
-[![LeetCode](https://leetcard.jacoblin.cool/roshalds789?theme=dark&animation=true)](https://leetcode.com/roshalds789/)
-
 </div>
 
 ---
