@@ -68,7 +68,6 @@ open_to: Internships & Collaborations
 
 </td>
 <td width="50%" valign="top">
-
 ### ⚙️ Rooman Technologies
 **DevOps Engineer Intern** · `Sept 2024 – Feb 2025`
 
@@ -101,7 +100,7 @@ Automated GitHub PR review bot using Llama 3.3 70B + Gemini fallback. Handles re
 ### 📄 Resume ATS Analyzer
 `JavaScript · Chrome Extension · PDF.js`
 
-Manifest v3 Chrome extension scoring resumes against JDs using ATS keyword matching. Client-side PDF parsing, no backend needed. Optional AI skill suggestions.
+Manifest v3 Chrome extension scoring resumes against JDs using ATS keyword matching. 
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshaldsouza)
 
