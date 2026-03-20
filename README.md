@@ -87,10 +87,10 @@ open_to: Internships & Collaborations
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🤖 AI Code Reviewer
+### 🤖 AI Voice Interview Coach
 `Python · FastAPI · Groq · Gemini`
 
-Automated GitHub PR review bot using Llama 3.3 70B + Gemini fallback. Handles repos with 5k+ lines, detects security bugs, and uses HMAC webhook verification.
+Your answer is transcribed live via Web Speech API, then sent to Llama 3.3-70b via Groq which returns structured scores + a rewritten better answer — in under 2 seconds.
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshaldsouza)
 
