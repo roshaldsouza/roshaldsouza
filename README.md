@@ -63,7 +63,6 @@ open_to: Internships & Collaborations
 
 - Built scalable **MEAN stack** modules for internal web apps
 - Developed **real-time data management** features
-- Streamlined data workflows, reducing manual operations
 - Deployed production-ready solutions with cross-functional teams
 
 </td>
