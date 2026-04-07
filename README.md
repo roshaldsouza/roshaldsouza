@@ -67,6 +67,7 @@ open_to: Internships & Collaborations
 
 </td>
 <td width="50%" valign="top">
+  
 ### ⚙️ Rooman Technologies
 **DevOps Engineer Intern** · `Sept 2024 – Feb 2025`
 
