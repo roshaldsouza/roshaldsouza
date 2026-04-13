@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif" width="380" alt="girl coding gif"/>
+<img src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" width="380" alt="girl coding gif"/>
 </div>
 
 ---
