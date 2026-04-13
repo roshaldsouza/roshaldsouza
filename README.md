@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-<img src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" width="380" alt="girl coding gif"/>
+<img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAd/new-game-ahagon-umiko-programming.gif" width="380" alt="girl coding gif"/>
 </div>
 
 ---
