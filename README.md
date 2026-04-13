@@ -130,11 +130,6 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <br/><br/>
 
-<!-- LeetCode Badges — if image doesn't appear, hard-refresh the page once -->
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=roshalds789&animated=true&filter=annual&border=no-border&theme=github-dark" alt="LeetCode Badges" />
-
-<br/><br/>
-
 <!-- LeetCode Daily Streak Badges -->
 <a href="https://leetcode.com/roshalds789">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="90" alt="LeetCode 100 Days Badge"/>
