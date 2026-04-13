@@ -1,12 +1,16 @@
 <div align="center">
 
-# 👩‍💻 Roshal Dsouza
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Roshal%20Dsouza&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20DevOps%20Explorer&descAlignY=55&descSize=16" />
 
-### `< Full Stack Developer />` · `{ AI Enthusiast }` · `[DevOps Explorer]`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=650&lines=Building+scalable+web+solutions+%F0%9F%9A%80;Exploring+LLMs+%7C+RAG+%7C+Agentic+AI+%F0%9F%A4%96;FastAPI+%7C+React+%7C+Node.js+%7C+Docker+%F0%9F%90%B3;Competitive+Programmer+%7C+DSA+Enthusiast+%F0%9F%A7%A0;Open+to+Internships+%26+Collaborations+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Building+scalable+web+solutions+%F0%9F%9A%80;Exploring+LLMs+%7C+RAG+%7C+Agentic+AI+%F0%9F%A4%96;FastAPI+%7C+React+%7C+Node.js+%7C+Docker+%F0%9F%90%B3;Open+to+Internships+%26+Collaborations+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshal)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshalds789@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshaldsouza)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoshalDsouza)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/roshalds789)
 
 </div>
 
@@ -44,7 +48,7 @@ open_to: Internships & Collaborations
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="girl coding gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
 </td>
 </tr>
@@ -67,7 +71,7 @@ open_to: Internships & Collaborations
 
 </td>
 <td width="50%" valign="top">
-  
+
 ### ⚙️ Rooman Technologies
 **DevOps Engineer Intern** · `Sept 2024 – Feb 2025`
 
@@ -88,9 +92,9 @@ open_to: Internships & Collaborations
 <td width="33%" valign="top" align="center">
 
 ### 🤖 AI Voice Interview Coach
-`Python · FastAPI · Groq · Gemini`
+`Python · FastAPI · Groq · Llama 3.3-70b`
 
-Your answer is transcribed live via Web Speech API, then sent to Llama 3.3-70b via Groq which returns structured scores + a rewritten better answer — in under 2 seconds.
+Live answer transcription via Web Speech API → Llama 3.3-70b returns structured scores + a rewritten better answer in under **2 seconds**.
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshaldsouza)
 
@@ -100,7 +104,7 @@ Your answer is transcribed live via Web Speech API, then sent to Llama 3.3-70b v
 ### 📄 Resume ATS Analyzer
 `JavaScript · Chrome Extension · PDF.js`
 
-Manifest v3 Chrome extension scoring resumes against JDs using ATS keyword matching. 
+Manifest v3 Chrome extension scoring resumes against JDs using ATS keyword matching. Ships with a serverless proxy to keep API keys off the client.
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshaldsouza)
 
@@ -110,13 +114,40 @@ Manifest v3 Chrome extension scoring resumes against JDs using ATS keyword match
 ### 🔗 LinkShort URL Shortener
 `Node.js · AWS Lambda · DynamoDB`
 
-Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click analytics, short-code aliases, and scalability via API Gateway.
+Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click analytics, short-code aliases, and infinite scalability via API Gateway.
 
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://github.com/roshaldsouza)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+> *Consistent problem solver — hard DSA daily. DP · Graphs · Union-Find · Greedy · Binary Search*
+
+<br/>
+
+<!-- LeetCode Stats Card — replace 'roshaldsouza' with your exact LeetCode username -->
+<img src="https://leetcard.jacoblin.cool/roshalds789?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+
+<br/><br/>
+
+<!-- LeetCode Animated Badges — replace 'roshaldsouza' with your exact LeetCode username -->
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=roshalds789&animated=true&theme=tokyonight" alt="LeetCode Badges" />
+
+<br/><br/>
+
+<!-- LeetCode Medal from your profile -->
+<a href="https://leetcode.com/roshalds789">
+  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-04.gif" width="80" alt="LeetCode April 2025 Badge"/>
+</a>
+
+</div>
 
 ---
 
@@ -181,16 +212,22 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <div align="center">
 
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=roshaldsouza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=roshaldsouza&theme=tokyonight&hide_border=true" />
+
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=roshaldsouza&theme=tokyonight&hide_border=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaldsouza&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+<br/>
+
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏅 Achievements & Certifications
 
 <div align="center">
 
@@ -200,6 +237,7 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 | 📜 | Agentic AI Systems – Udemy |
 | 📜 | Model Context Protocol (MCP) – Udemy |
 | 🎓 | CGPA: 9.0 · B.E. Computer Science, VTU Bangalore |
+| 🧠 | Active competitive programmer — Hard DSA daily on LeetCode |
 
 </div>
 
@@ -213,6 +251,7 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshal)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshaldsouza)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoshalDsouza)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/roshalds789)
 
 <br/>
 
@@ -222,5 +261,6 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 > *"Coding is not just about solving problems — it's about creating possibilities."* ✨
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
