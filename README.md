@@ -135,9 +135,13 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <br/><br/>
 
-<!-- April 2025 Daily Badge — earned by submitting every day in April -->
+<!-- LeetCode Daily Streak Badges -->
 <a href="https://leetcode.com/roshalds789">
-  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-04.gif" width="90" alt="LeetCode April 2025 Badge"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="90" alt="LeetCode 100 Days Badge"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/roshalds789">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90" alt="LeetCode 50 Days Badge"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/roshalds789">
