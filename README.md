@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshalds789@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshaldsouza)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshalds789)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoshalDsouza)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/roshalds789)
 
@@ -16,11 +16,13 @@
 
 ---
 
-## 🧠 Who Am I?
+<div align="center">
+<img src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif" width="380" alt="girl coding gif"/>
+</div>
 
-<table>
-<tr>
-<td valign="top" width="60%">
+---
+
+## 🧠 Who Am I?
 
 ```yaml
 name: Roshal Dsouza
@@ -44,15 +46,6 @@ currently_learning:
 
 open_to: Internships & Collaborations
 ```
-
-</td>
-<td valign="top" width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -96,7 +89,7 @@ open_to: Internships & Collaborations
 
 Live answer transcription via Web Speech API → Llama 3.3-70b returns structured scores + a rewritten better answer in under **2 seconds**.
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshaldsouza)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshalds789)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -106,7 +99,7 @@ Live answer transcription via Web Speech API → Llama 3.3-70b returns structure
 
 Manifest v3 Chrome extension scoring resumes against JDs using ATS keyword matching. Ships with a serverless proxy to keep API keys off the client.
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshaldsouza)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshalds789)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -116,7 +109,7 @@ Manifest v3 Chrome extension scoring resumes against JDs using ATS keyword match
 
 Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click analytics, short-code aliases, and infinite scalability via API Gateway.
 
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://github.com/roshaldsouza)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://github.com/roshalds789)
 
 </td>
 </tr>
@@ -132,19 +125,23 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <br/>
 
-<!-- LeetCode Stats Card — replace 'roshaldsouza' with your exact LeetCode username -->
+<!-- LeetCode Stats Card — replace 'roshalds789' with your exact LeetCode username -->
 <img src="https://leetcard.jacoblin.cool/roshalds789?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
 
 <br/><br/>
 
-<!-- LeetCode Animated Badges — replace 'roshaldsouza' with your exact LeetCode username -->
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=roshalds789&animated=true&theme=tokyonight" alt="LeetCode Badges" />
+<!-- LeetCode Badges — if image doesn't appear, hard-refresh the page once -->
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=roshalds789&animated=true&filter=annual&border=no-border&theme=github-dark" alt="LeetCode Badges" />
 
 <br/><br/>
 
-<!-- LeetCode Medal from your profile -->
+<!-- April 2025 Daily Badge — earned by submitting every day in April -->
 <a href="https://leetcode.com/roshalds789">
-  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-04.gif" width="80" alt="LeetCode April 2025 Badge"/>
+  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-04.gif" width="90" alt="LeetCode April 2025 Badge"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/roshalds789">
+  <img src="https://img.shields.io/badge/LeetCode-201%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="201 solved"/>
 </a>
 
 </div>
@@ -214,12 +211,12 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=roshaldsouza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=roshaldsouza&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=roshalds789&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=roshalds789&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaldsouza&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshalds789&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -249,13 +246,13 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshalds789@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshal)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshaldsouza)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshalds789)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoshalDsouza)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/roshalds789)
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=roshaldsouza&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=roshalds789&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <br/>
 
