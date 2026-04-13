@@ -121,8 +121,6 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <div align="center">
 
-> *Consistent problem solver — hard DSA daily. DP · Graphs · Union-Find · Greedy · Binary Search*
-
 <br/>
 
 <!-- LeetCode Stats Card — replace 'roshalds789' with your exact LeetCode username -->
