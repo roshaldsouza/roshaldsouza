@@ -117,7 +117,7 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 ---
 
-## 🏆 Competitive Programming
+##  Competitive Programming
 
 <div align="center">
 
