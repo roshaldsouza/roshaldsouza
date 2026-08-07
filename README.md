@@ -231,7 +231,7 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 | 📜 | Agentic AI Systems – Udemy |
 | 📜 | Model Context Protocol (MCP) – Udemy |
 | 🎓 | CGPA: 9.0 · B.E. Computer Science, VTU Bangalore |
-| 🧠 | Active competitive programmer — Hard DSA daily on LeetCode |
+| 🧠 | Active competitive programmer —  DSA daily on LeetCode |
 
 </div>
 
