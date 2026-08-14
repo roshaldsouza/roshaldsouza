@@ -130,6 +130,9 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <!-- LeetCode Daily Streak Badges -->
 <a href="https://leetcode.com/roshalds789">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90" alt="LeetCode 50 Days Badge"/>
+</a>
+<a href="https://leetcode.com/roshalds789">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="90" alt="LeetCode 100 Days Badge"/>
 </a>
 &nbsp;&nbsp;
@@ -137,9 +140,6 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="90" alt="LeetCode 200 Days Badge"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/roshalds789">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90" alt="LeetCode 50 Days Badge"/>
-</a>
 
 </div>
 
