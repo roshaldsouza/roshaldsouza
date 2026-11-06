@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshalds789@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshalds789)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshaldsouza)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoshalDsouza)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/roshalds789)
 
@@ -89,7 +89,7 @@ open_to: Internships & Collaborations
 
 Live answer transcription via Web Speech API → Llama 3.3-70b returns structured scores + a rewritten better answer in under **2 seconds**.
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshalds789)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshaldsouza)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -99,7 +99,7 @@ Live answer transcription via Web Speech API → Llama 3.3-70b returns structure
 
 Manifest v3 Chrome extension scoring resumes against JDs using ATS keyword matching. Ships with a serverless proxy to keep API keys off the client.
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshalds789)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshaldsouza)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -109,7 +109,7 @@ Manifest v3 Chrome extension scoring resumes against JDs using ATS keyword match
 
 Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click analytics, short-code aliases, and infinite scalability via API Gateway.
 
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://github.com/roshalds789)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://github.com/roshaldsouza)
 
 </td>
 </tr>
@@ -117,21 +117,22 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 ---
 
-##  Competitive Programming
+## 🧩 Competitive Programming
 
 <div align="center">
 
 <br/>
 
-<!-- LeetCode Stats Card — replace 'roshalds789' with your exact LeetCode username -->
+<!-- LeetCode Stats Card -->
 <img src="https://leetcard.jacoblin.cool/roshalds789?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
 
 <br/><br/>
 
-<!-- LeetCode Daily Streak Badges -->
+<!-- LeetCode Streak Badges -->
 <a href="https://leetcode.com/roshalds789">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90" alt="LeetCode 50 Days Badge"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://leetcode.com/roshalds789">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="90" alt="LeetCode 100 Days Badge"/>
 </a>
@@ -143,7 +144,7 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 <a href="https://leetcode.com/roshalds789">
   <img src="https://github.com/singhal-amit/LeetCode-Badges/raw/main/badges/submission%20days/365.gif" width="90" alt="LeetCode 365 Days Badge"/>
 </a>
-&nbsp;&nbsp;
+
 </div>
 
 ---
@@ -211,12 +212,12 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=roshaldsouza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=roshaldsouza&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=roshaldsouza&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=roshaldsouza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaldsouza&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roshaldsouza&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
@@ -234,7 +235,7 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 | 📜 | Agentic AI Systems – Udemy |
 | 📜 | Model Context Protocol (MCP) – Udemy |
 | 🎓 | CGPA: 9.0 · B.E. Computer Science, VTU Bangalore |
-| 🧠 | Active competitive programmer —  DSA daily on LeetCode |
+| 🧠 | Active competitive programmer — DSA daily on LeetCode |
 
 </div>
 
@@ -246,13 +247,13 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshalds789@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshal)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshalds789)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshaldsouza)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoshalDsouza)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/roshalds789)
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=roshalds789&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=roshaldsouza&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <br/>
 
