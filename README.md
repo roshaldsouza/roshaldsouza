@@ -141,7 +141,7 @@ Serverless URL shortener with sub-100ms redirect latency. TTL expiry, click anal
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/roshalds789">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-365.gif" width="90" alt="LeetCode 200 Days Badge"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2026-365.gif" width="90" alt="LeetCode 365 Days Badge"/>
 </a>
 &nbsp;&nbsp;
 </div>
